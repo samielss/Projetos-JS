@@ -22,6 +22,7 @@ console.log(`Selecione dois números`)
 escolha = 2
 num1=2
 num2=3
+cons
 if(escolha==1){
     operacao = "Soma"
     result=somaValores(num1,num2)
@@ -43,3 +44,4 @@ else{
 }
 //Resultado
 console.log(`Você selecionou a ${operacao} de ${num1} e ${num2} e o resultado foi ${result}`)
+//Usuário
